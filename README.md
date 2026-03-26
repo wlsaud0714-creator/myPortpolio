@@ -62,7 +62,7 @@ ALU: CPU안에 있고 계산을 주로 담당.
 
 레지스터 지정방식의 직접과 간접이 있는데 레지스터에 데이터가 들어있어서 바로가져갈 수 있는거고 간접은 레지스터 안에 주소가 들어있어서 메모리로부터 해당 데이터를 가져올 수 있다.
 
-[https://claude.ai/public/artifacts/b0dc209c-9ab0-416d-90d9-c8f2425422d5](aboutme.md)
+[https://claude.ai/public/artifacts/b0dc209c-9ab0-416d-90d9-c8f2425422d5](aboutme)
 
 
 
